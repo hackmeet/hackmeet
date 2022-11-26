@@ -3,9 +3,9 @@
 
 - I’m currently working with [PMC retail](https://www.linkedin.com/company/pmcretail/mycompany/verification/)
 
-- I’m currently learning **Node Js, Angular Js**
+- I’m currently learning **Node Js**
 
-- I’m working on [File System Organizer](https://github.com/hackmeet/File-System-Organizer)
+- I’m working on Angular Js.
 
 - I have solved 150+ leetcode problems [https://leetcode.com/Vasani_Meet/](https://leetcode.com/Vasani_Meet/)
 
