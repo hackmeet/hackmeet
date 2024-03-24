@@ -1,21 +1,19 @@
 <h1 align="center">Hi, I'm Meet Vasani</h1>
 <h3 align="center">Programmer with strong communication skills and an emphasis on the entire feature-driven development process who has actively contributed to problem-solving with developing web application</h3>
 
-- I’m currently working with [PMC retail](https://www.linkedin.com/company/pmcretail/mycompany/verification/)
+- I’m currently working with [Accops Systems]([https://www.linkedin.com/company/pmcretail/mycompany/verification/](https://accops.com/))
 
-- I’m currently learning **Node Js**
-
-- I’m working on Angular Js.
+- I’m currently learning **Next JS**
 
 - I have solved 150+ leetcode problems [https://leetcode.com/Vasani_Meet/](https://leetcode.com/Vasani_Meet/)
 
 - All of my projects are available at [https://github.com/hackmeet](https://github.com/hackmeet)
 
-- Ask me about **C++, Data structures ,Javascript**
+- Ask me about **Spring Boot,C++, Data structures ,Javascript**
 
 - My email Id **w.vasanimeet@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/14YfZPQN5bA337QOKZx5AnFtrpAW7y8ka/view?usp=sharing](https://drive.google.com/file/d/14YfZPQN5bA337QOKZx5AnFtrpAW7y8ka/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/14YfZPQN5bA337QOKZx5AnFtrpAW7y8ka/view?usp=sharing]([https://drive.google.com/file/d/14YfZPQN5bA337QOKZx5AnFtrpAW7y8ka/view?usp=sharing](https://drive.google.com/file/d/10OVSw8-ZQlAjn2yRaMj083FE6pTROZLH/view))
 
 - Fun fact **Coding has over 700 languages**
 
