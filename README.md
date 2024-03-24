@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meet Vasani</h1>
 <h3 align="center">Programmer with strong communication skills and an emphasis on the entire feature-driven development process who has actively contributed to problem-solving with developing web application</h3>
 
-- I’m currently working with [Accops Systems]([https://www.linkedin.com/company/pmcretail/mycompany/verification/](https://accops.com/))
+- I’m currently working with [Accops Systems](https://accops.com/)
 
 - I’m currently learning **Next JS**
 
@@ -13,7 +13,7 @@
 
 - My email Id **w.vasanimeet@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/14YfZPQN5bA337QOKZx5AnFtrpAW7y8ka/view?usp=sharing]([https://drive.google.com/file/d/14YfZPQN5bA337QOKZx5AnFtrpAW7y8ka/view?usp=sharing](https://drive.google.com/file/d/10OVSw8-ZQlAjn2yRaMj083FE6pTROZLH/view))
+- Know about my experiences (https://drive.google.com/file/d/10OVSw8-ZQlAjn2yRaMj083FE6pTROZLH/view)
 
 - Fun fact **Coding has over 700 languages**
 
