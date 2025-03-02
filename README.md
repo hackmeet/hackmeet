@@ -3,18 +3,14 @@
 
 - I’m currently working with [Accops Systems](https://accops.com/)
 
-- I’m currently learning **Next JS**
-
-- I have solved 150+ leetcode problems [https://leetcode.com/Vasani_Meet/](https://leetcode.com/Vasani_Meet/)
+- I’m currently learning **DevOps Technologies and TOols**
 
 - All of my projects are available at [https://github.com/hackmeet](https://github.com/hackmeet)
 
-- Ask me about **Spring Boot,C++, Data structures ,Javascript**
+- Ask me about **DevOps,Docker,K8s,Jenkins,Spring Boot,C++, Data structures ,Javascript**
 
 - My email Id **w.vasanimeet@gmail.com**
-
-- Know about my experiences (https://drive.google.com/file/d/10OVSw8-ZQlAjn2yRaMj083FE6pTROZLH/view)
-
+  
 - Fun fact **Coding has over 700 languages**
 
 <h3 align="left">Connect with me:</h3>
