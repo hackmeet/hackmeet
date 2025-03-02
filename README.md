@@ -3,7 +3,7 @@
 
 - I’m currently working with [Accops Systems](https://accops.com/)
 
-- I’m currently learning **DevOps Technologies and TOols**
+- I’m currently learning **DevOps Technologies and Tools**
 
 - All of my projects are available at [https://github.com/hackmeet](https://github.com/hackmeet)
 
